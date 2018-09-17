@@ -7,12 +7,11 @@
     },
     "files": [
         "README.md",
-        "dal.d.ts",
         "main.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "installedVersion": "workspace:0e12fde8-33a1-46e1-3f1f-240ee0a30f62"
 }
